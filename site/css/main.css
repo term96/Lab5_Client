@@ -1,0 +1,41 @@
+body
+{
+  font-size: 16pt;
+}
+
+a
+{
+  padding-left: 8px;
+  text-decoration: none;
+}
+
+a:hover
+{
+  text-decoration: underline;
+}
+
+.view_link
+{
+  color: #1b95e0;
+}
+
+.delete_link
+{
+  color: #ff2400;
+}
+
+p
+{
+  background: #828282;
+}
+
+span
+{
+  padding-left: 8px;
+  color: #33ff33;
+}
+
+button
+{
+  font-size: 16px;
+}
